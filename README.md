@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @BoranOmerD
+- 👀 I am interested in iOS app development. I know Swift-SwiftUI at medium-high level and I aim to improve myself in this direction. Apart from that, I have produced many projects in software languages such as Java, Python, C, many of which are artificial intelligence and machine learning.
+- 🌱 I am currently continuing to improve myself on Swift and SwiftUI. I am also learning 3rd party libraries like Cocopod and trying to include them in my projects. I am also trying to learn Google Gemini and Firebase and trying to include them in my projects.
+- 📫 You can reach me from this email -> omerdogan138@hotmail.com
+- ⚡ Fun information: I like going to the gym, swimming and eating Asian food
